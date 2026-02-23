@@ -28,11 +28,6 @@
 
 ---
 
-### GitHub Stats:
-![Thaieny's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaienydv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
----
-
 ### ✨ My Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaienydv/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaienyrp@gmail.com)
