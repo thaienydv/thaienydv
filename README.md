@@ -8,7 +8,7 @@
 
 ### 🌐 Languages:
 - **Portuguese:** Native 🇧🇷
-- **English:** Learning / Technical 🇺🇸
+- **English:** Intermediate 🇺🇸
 
 ---
 
